@@ -1,0 +1,1 @@
+void *printChar(void *vargp);
